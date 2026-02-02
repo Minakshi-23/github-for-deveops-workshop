@@ -1,0 +1,42 @@
+1 try { . "c:\Users\HP\AppData\Local\Programs... 
+   2 & C:/Python314/python.exe c:/Users/HP/OneDr... 
+   3 ls -l
+   4 git init
+   5 dir -a
+   6 cls
+   7 git init
+   8 git status
+   9 git add testing.py
+  10 git commit -m "added testing files "
+  11 cls
+  12 git status
+  13 git rm testing.py
+  14 git restore testing.py
+  15 git restore testng.py
+  16 & C:/Python314/python.exe c:/Users/HP/OneDr... 
+  17 git restore testing.py
+  18 cls
+  19 dir
+  20 testing.py
+  21 python testing.py
+  22 git status
+  23 git add testing.py
+  24 git commit -m "added testing file"
+  25 git status
+  26 git rm testing.py
+  27 git restore testing.py
+  28 nothing to commit, working tree clean
+  29 git rm testing.py
+  30 dir
+  31 git rm testing.py
+  32 rm testing.py
+  33 restore testing.py
+  34 git restore testing.py
+  35 cls
+  36 git status
+  37 git add testing.py
+  38 git commit -m "add testing.py"
+  39 git add -a
+  40 git commit -m "re-add testing.py"
+  41 git log
+  42 git status

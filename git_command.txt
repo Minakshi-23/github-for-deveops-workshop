@@ -40,3 +40,14 @@
   40 git commit -m "re-add testing.py"
   41 git log
   42 git status
+  git remote -v
+   4 cls
+   5 git remote -v
+   6 get remote set-url origin h
+   8 git remote -v
+   9 git remote set-url origin  https://... 
+  10 cls
+  11 git remote -v
+  12 git push origin master
+  13 cls
+  14 git status
